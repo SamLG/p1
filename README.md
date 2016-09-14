@@ -10,7 +10,7 @@ A portfolio for the projects that will be done throughout the course.
 https://youtu.be/jYXO3DZEOZ8
 
 ## Details for teaching team
-I just wanted to address the short time elapsed between my commits. I actually completed the project once before I remembered to do commits. I started again and made sure to commit as I worked, but since I had already created the project it went significantly faster.
+I just wanted to address the short time elapsed between my initial commits. I actually completed the majority of the project once before I remembered to do commits. I started again and made sure to commit as I worked, but since I had already created the project it went significantly faster.
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/css/#overview
