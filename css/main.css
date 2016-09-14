@@ -22,3 +22,16 @@ h1 {
 .projects {
 	margin-top: 3em;
 }
+
+footer {
+	background: rgba(0, 0, 0, 0.7);
+	color: white;
+	/*  the footer is glued to the bottom of the page despite scrolling*/
+	position: fixed;
+	/* whenever position was applied styling was lost with bootstrap, so 
+	had to specify right and left: http://stackoverflow.com/questions/28144233/bootstrap-container-with-positionabsolute-loses-layout-inside*/
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 2em;
+}
