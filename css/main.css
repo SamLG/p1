@@ -4,3 +4,13 @@ body {
 	text-align: center;
 	margin-bottom: 2em;
 }
+
+main {
+	margin: 2em auto;
+}
+
+h1 {
+	font-family: "Handlee", cursive, "Lucida Sans Unicode", sans-serif;
+	font-weight: bold;
+	font-size: 5em;
+}
