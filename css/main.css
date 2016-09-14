@@ -28,6 +28,15 @@ h1 {
 	font-style: italic;
 }
 
+.projects section:first-child {
+	margin-bottom: 5em;
+}
+
+.projects img {
+	width: 10em;
+	float: right;
+}
+
 .yel {
  	background-color: yellow;
  }
