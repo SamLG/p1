@@ -14,3 +14,11 @@ h1 {
 	font-weight: bold;
 	font-size: 5em;
 }
+
+.profile {
+	padding: 0 2em 0 2em;
+}
+
+.projects {
+	margin-top: 3em;
+}
