@@ -21,6 +21,9 @@ h1 {
 
 .projects {
 	margin-top: 3em;
+}
+
+.projects:first-child {
 	overflow: auto;
 }
 
