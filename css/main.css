@@ -23,8 +23,12 @@ h1 {
 	margin-top: 3em;
 }
 
-.projects:first-child {
+/*.projects:first-child {
 	overflow: auto;
+}*/
+
+.clearfloat {
+	clear: both;
 }
 
 .projects section {
